@@ -10,7 +10,7 @@
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
   "author": "Jake Riesterer <jriesterer@cloudflare.com>",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
