@@ -1,0 +1,32 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "package for creating workers templates",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Jake Riesterer <jriesterer@cloudflare.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "prettier": "^1.17.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sharp": "^0.22.1"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@emotion/styled": "^10.0.12",
+    "mime": "^2.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "serverless-cloudflare-workers": "^1.2.0",
+    "uuid": "^3.3.2"
+  }
+}

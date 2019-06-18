@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Blue T-Shirt",
+    "price": 1499,
+    "image": "/images/blue-t-shirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Modern bamboo wristwatch",
+    "price": 3999,
+    "image": "/images/modern-bamboo-wristwatch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elephant earrings",
+    "price": 2399,
+    "image": "/images/elephant-earrings.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Black backback with gold zipper",
+    "price": 4599,
+    "image": "/images/gold-zipper-on-black-fashion-backpack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Red purse with gold accents",
+    "price": 11099,
+    "image": "/images/bright-red-purse-with-gold.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pink donut pool float",
+    "price": 1299,
+    "image": "/images/pink-donut-pool-float.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Red LED light-up shoes",
+    "price": 12099,
+    "image": "/images/red-LED-shoes.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Black sneakers",
+    "price": 8999,
+    "image": "/images/right-foot-all-black-sneaker.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Stacked gold bracelets",
+    "price": 4399,
+    "image": "/images/stacked-bracelets.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pineapple drink holder",
+    "price": 999,
+    "image": "/images/pineapple-drink-holder.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cute fruit iPhone case",
+    "price": 1899,
+    "image": "/images/iphone-case-cute-fruit.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Noise cancelling headphones",
+    "price": 14999,
+    "image": "/images/noise-cancelling-headphones.jpg"
+  }
+]
